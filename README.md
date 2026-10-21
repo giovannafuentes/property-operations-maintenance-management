@@ -2,9 +2,22 @@
 
 A portfolio project demonstrating how property and facilities operations can be organized, monitored, automated, and financially analyzed across a multi-property portfolio.
 
-The project combines **Notion** for operational management, **Make** for workflow automation, **Gmail** for automated notifications, and **Excel** for maintenance spend analysis and modeled savings opportunities.
+The solution combines **Notion** for operational management, **Make** for workflow automation, **Gmail** for automated notifications, and **Excel** for maintenance spend analysis and modeled savings opportunities.
 
 > **Portfolio note:** All properties, vendors, contacts, transactions, and financial data in this project are fictional and were created for demonstration purposes only.
+
+## Executive Snapshot
+
+- **6 fictional properties** managed across a multi-property portfolio
+- **10 vendors** tracked for service category, preferred status, contract expiration, insurance/COI expiration, rating, and ownership
+- **2 live automation scenarios** built in Make for 30-day contract and insurance/COI alerts
+- **54 synthetic maintenance transactions** analyzed from January through June 2026
+- **$570,780 actual maintenance spend**
+- **$34,245 modeled six-month savings opportunity**
+- **$68,490 annualized savings run-rate**
+- **78% of modeled savings opportunity concentrated in three operational priorities**
+
+[View the Excel financial analysis workbook](Property_Maintenance_Financial_Analysis.xlsx)
 
 ## Business Challenge
 
@@ -24,12 +37,9 @@ This project was designed to create a simple operating system that connects day-
 
 ## Tools Used
 
-- Notion
-- Make
-- Gmail
-- Microsoft Excel
-- Excel formulas, lookups, conditional formatting, and charts
-- AI-assisted workflow and operational analysis
+**Notion · Make · Gmail · Microsoft Excel · AI-assisted workflow design**
+
+Excel capabilities demonstrated include formulas, lookups, conditional formatting, data bars, structured analysis, and executive-ready charts.
 
 ## Operational Components
 
@@ -46,13 +56,11 @@ Vendor records include preferred-vendor status, ratings, contract expirations, i
 
 ## Automated Workflows
 
-Two active automated scenarios were implemented on the Make free plan:
-
-### 1. Vendor Contract Expiration – 30 Day Alert
+### Vendor Contract Expiration — 30 Day Alert
 
 The workflow reviews active vendors, identifies contracts reaching the 30-day renewal threshold, sends an automated email reminder, and creates a traceable entry in the Notion Alerts & Escalations Log.
 
-### 2. Vendor Insurance / COI Expiration – 30 Day Alert
+### Vendor Insurance / COI Expiration — 30 Day Alert
 
 The workflow identifies active vendors approaching insurance or COI expiration, sends a compliance reminder, and records the alert in Notion for audit and follow-up.
 
@@ -66,7 +74,7 @@ Key portfolio metrics:
 
 - **Actual maintenance spend:** $570,780
 - **Quoted / budgeted spend:** $528,700
-- **Transaction variance:** $(42,080)
+- **Unfavorable transaction variance:** $42,080
 - **Preferred vendor usage:** 77.8%
 - **Preventive maintenance share:** 51.3%
 - **Emergency maintenance share:** 11.2%
@@ -74,7 +82,7 @@ Key portfolio metrics:
 - **Annualized savings run-rate:** $68,490
 - **Modeled savings opportunity:** 6.0% of analyzed spend
 
-The annualized figure is a **run-rate scenario**, not a guaranteed forecast. It assumes similar spending patterns continue over a 12-month period.
+The annualized figure is a **run-rate scenario, not a guaranteed forecast**. It assumes similar spending patterns continue over a 12-month period.
 
 ## Key Findings
 
@@ -84,7 +92,7 @@ The annualized figure is a **run-rate scenario**, not a guaranteed forecast. It 
 
 ### Vendor Management Opportunity
 
-Non-preferred vendor usage represented a measurable sourcing opportunity, particularly within janitorial and roofing services. However, the analysis also showed that preferred-vendor status alone does not guarantee cost efficiency; scope, pricing, maintenance type, and budget discipline must also be reviewed.
+Non-preferred vendor usage represented a measurable sourcing opportunity, particularly within janitorial and roofing services. The analysis also showed that preferred-vendor status alone does not guarantee cost efficiency; scope, pricing, maintenance type, and budget discipline must also be reviewed.
 
 ### Concentrated Savings Opportunity
 
@@ -101,6 +109,8 @@ Approximately **78% of modeled savings opportunities** were concentrated in thre
 | 1 | Preventable Emergencies | Strengthen preventive-maintenance cadence and root-cause reviews for repeat failures | $10.2K |
 | 2 | Budget Overrun Controls | Review quote-to-invoice variances and reinforce approval controls | $9.3K |
 | 3 | Preventive Optimization | Review maintenance scope, frequency, and pricing while preserving asset reliability | $7.1K |
+
+These three initiatives represent approximately **78% of the modeled savings opportunity** identified during the six-month analysis period.
 
 ## Project Screenshots
 
@@ -133,9 +143,9 @@ Approximately **78% of modeled savings opportunities** were concentrated in thre
 
 ## Skills Demonstrated
 
-Property Operations · Facilities Management · Vendor Management · Contract & Compliance Monitoring · Workflow Automation · Executive Reporting · Budget Analysis · Financial Analysis · Cost Optimization · Excel · Notion · Make · AI-Assisted Operations
+**Property Operations · Facilities Management · Vendor Management · Contract & Compliance Monitoring · Workflow Automation · Executive Reporting · Budget Analysis · Financial Analysis · Cost Optimization · Excel · Notion · Make · AI-Assisted Operations**
 
 ---
 
 **Created by Giovanna Fuentes**  
-Portfolio project | Property Operations · Executive Operations · Business Analytics
+Portfolio Project | Property Operations · Executive Operations · Business Analytics
