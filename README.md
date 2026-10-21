@@ -27,7 +27,19 @@ This project was designed to create a simple operating system that connects day-
 
 ## Solution Architecture
 
-**Notion → Make → Gmail → Notion Audit Log → Excel Financial Analysis**
+<p align="left">
+  <img src="https://img.shields.io/badge/Notion%20Operations%20Hub-1F4E79?style=for-the-badge&labelColor=1F4E79&color=1F4E79" />
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/Make%20Automation-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" />
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/Gmail%20Alert-0E7490?style=for-the-badge&labelColor=0E7490&color=0E7490" />
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/Notion%20Audit%20Log-1F4E79?style=for-the-badge&labelColor=1F4E79&color=1F4E79" />
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/Excel%20Analysis-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" />
+  &nbsp; ➜ &nbsp;
+  <img src="https://img.shields.io/badge/Savings%20Opportunities-0E7490?style=for-the-badge&labelColor=0E7490&color=0E7490" />
+</p>
 
 - **Notion** centralizes properties, vendors, work orders, preventive maintenance, budgets, and alerts.
 - **Make** monitors vendor compliance dates and triggers automated workflows.
